@@ -1,1 +1,1 @@
-  ![](/home/tarena/1.png)
+  ![](img/home/tarena/1.png)
