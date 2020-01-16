@@ -1,1 +1,1 @@
-  ![avatar](/home/tarena/1.png)
+  ![](/home/tarena/1.png)
